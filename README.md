@@ -5,11 +5,10 @@
 - 😄 Pronomes: ele/dele
 - 👨‍💻 Uso principalmente Java
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=renatonoronha&show_icons=true&theme=dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonoronha&theme=dark&size_weight=0&count_weight=1&layout=compact#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonoronha&theme=dark&size_weight=0&count_weight=1&layout=compact&hide_border=true&bg_color=0d1117#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=renatonoronha&show_icons=true&theme=default&bg_color=00000000#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonoronha&size_weight=0&count_weight=1&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=renatonoronha&size_weight=0&count_weight=1&layout=compact&hide_border=true&bg_color=0d1117#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 <!---
