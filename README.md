@@ -13,10 +13,11 @@ Me chamo Renato Noronha e sou natural de Minas Gerais. Sou apaixonado por tecnol
 - 📫 Contate-me no email: dev.renato10@gmail.com
 - 😄 Pronomes: ele/dele
 - 👨‍💻 Uso principalmente Java
-
+ 
 ---
 
 ### Linguagens e Tecnologias
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Renato-Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
+  <img align="center" alt="Renato-Java" title="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
 </div>
