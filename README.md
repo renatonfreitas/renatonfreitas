@@ -19,5 +19,6 @@ Me chamo Renato Noronha e sou natural de Minas Gerais. Sou apaixonado por tecnol
 ### Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Renato-Java" title="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />    
+  <img align="center" alt="Renato-Java" title="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" alt="Renato-Spring" title="Spring" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
