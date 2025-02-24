@@ -12,6 +12,8 @@
 - 😄 Pronomes: ele/dele
 - 👨‍💻 Uso principalmente Java
 
+Me chamo Renato Noronha e sou natural de Minas Gerais. Sou apaixonado por tecnologia e atualmente estou cursando Ciência da Computação no Centro Universitário UNA.
+
 ##
 
 Linguagens e Tecnologias
