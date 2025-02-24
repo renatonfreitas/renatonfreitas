@@ -14,7 +14,7 @@ Me chamo Renato Noronha e sou natural de Minas Gerais. Sou apaixonado por tecnol
 - 😄 Pronomes: ele/dele
 - 👨‍💻 Uso principalmente Java
 
-##
+---
 
 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
