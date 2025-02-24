@@ -8,14 +8,9 @@
 <br>
 
 Me chamo Renato Noronha, um apaixonado por tecnologia e por solucionar problemas. Atualmente estou cursando Ciência da Computação no Centro Universitário UNA e eu adoro um bom desafio👀. Tenho muita vontade de demonstrar minhas experiências de projetos pessoais em ideias inovadoras e em projetos de desenvolvimento backend🚀
-
-<br>
    
-### 🌱 Atualmente estudando e aprimorando
-
+### 🌱 Atualmente estudando:
 - Estrutura de Dados e Algoritmos
-
-<br>
 
 ## Linguagens e Tecnologias
 
