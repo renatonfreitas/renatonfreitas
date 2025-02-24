@@ -11,7 +11,7 @@ Me chamo Renato Noronha, um apaixonado por tecnologia e por solucionar problemas
 
 <br>
    
-## 🌱 Atualmente estudando e aprimorando
+### 🌱 Atualmente estudando e aprimorando
 
 - Estrutura de Dados e Algoritmos
 
