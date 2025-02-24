@@ -7,7 +7,7 @@
 
 <br>
 
-Me chamo Renato Noronha e sou natural de Minas Gerais. Sou apaixonado por tecnologia e atualmente estou cursando Ciência da Computação no Centro Universitário UNA. Tenho experiência de projetos backend.
+Me chamo Renato Noronha e sou natural de Minas Gerais. Atualmente estou cursando Ciência da Computação no Centro Universitário UNA, sou apaixonado por tecnologia e resolver problemas. Tenho muita vontade de demonstrar minhas experiências de projetos pessoais em soluções inovadoras e em projetos de desenvolvimento backend
 
 - 👀 Hoje estou no 5° período de Ciência da Computação
 - 🌱 Atualmente estou estudando Estrutura de Dados e Algoritmos
