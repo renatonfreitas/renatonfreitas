@@ -9,7 +9,7 @@
 
 Me chamo Renato Freitas, um apaixonado por tecnologia e por solucionar problemas. Atualmente estou cursando Ciência da Computação no Centro Universitário UNA e eu adoro um bom desafio👀. Tenho muita vontade de demonstrar minhas experiências de projetos pessoais em ideias inovadoras e em projetos de desenvolvimento backend🚀
    
-#### 🌱 Atualmente estudando Estrutura de Dados e Algoritmos, Teoria da computação, Compiladores, Computação Gráfica, Realidade virtual
+#### 🌱 Atualmente estudando Estrutura de Dados, Análise de Algoritmos e Estruturas Matemáticas.
 
 ## Linguagens e Tecnologias
 
