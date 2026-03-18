@@ -9,11 +9,12 @@
 
 Me chamo Renato Freitas, um apaixonado por tecnologia e por solucionar problemas. Atualmente estou cursando Ciência da Computação no Centro Universitário UNA e eu adoro um bom desafio👀. Tenho muita vontade de demonstrar minhas experiências de projetos pessoais em ideias inovadoras e em projetos de desenvolvimento backend🚀
    
-#### 🌱 Atualmente estudando Estrutura de Dados, Análise de Algoritmos e Estruturas Matemáticas.
+#### 🌱 Atualmente estudando **Desenvolvimento com Python**, **Sistemas distribuídos** e **Usabilidade**.
 
 ## Linguagens e Tecnologias
 
 <div style="display: inline_block">
+  <img align="center" alt="Renato-Python" title="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />        
   <img align="center" alt="Renato-Java" title="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Renato-Spring" title="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
   <img align="center" alt="Renato-PostgreSQL" title="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
